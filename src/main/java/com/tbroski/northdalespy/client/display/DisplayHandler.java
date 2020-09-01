@@ -1,4 +1,4 @@
-package main.java.com.tbroski.northdalesspy.client.display;
+package main.java.com.tbroski.northdalespy.client.display;
 
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.*;
